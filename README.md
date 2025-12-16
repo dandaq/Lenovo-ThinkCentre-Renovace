@@ -32,12 +32,12 @@ Níže přikládám detailní snímky připraveného hardwaru před samotnou mon
 
 *(Exteriér, nástroje, hdd a zdroj)*
 ![PC Skříň](case.jpeg)
-![Příprava nástrojů a HDD](nastroje.jpg)
-![Napájecí zdroj](zdroj.jpg)
+![Příprava nástrojů a HDD](nastroje.png)
+![Napájecí zdroj](zdroj.png)
 
 *(Základní deska a ostatní komponenty)*
-![Základní deska s CPU](deska.jpg)
-![Přehled dílů a RAM](komponenty.jpg)
+![Základní deska s CPU](deska.png)
+![Přehled dílů a RAM](komponenty.png)
 
 ---
 
@@ -55,7 +55,7 @@ Během přípravy k montáži jsem narazil na zásadní problém, který pravdě
 * **Řešení:** Základní deska L-IG41M podporuje pouze paměti DDR3. Osazení DDR2 modulu je fyzicky nemožné bez poškození slotu (jiná poloha výřezu) a elektricky nekompatibilní. Modul DDR2 jsem proto z montáže vyřadil a systém osadil pouze 2GB DDR3 modulem do slotu DIMM_1.
 
 *(Porovnání modulů)*
-![Detail problému RAM](ram_problem.jpg)
+![Detail problému RAM](ram_problem.png)
 
 ### Fáze 3: Kompletace a Cable Management
 1. **CPU:** Osazení procesoru do patice LGA775 (kontrola orientace dle zlaté šipky).
@@ -64,7 +64,7 @@ Během přípravy k montáži jsem narazil na zásadní problém, který pravdě
 4. **Senzory:** Zapojení specifického teplotního čidla (Thermal Sensor), které vyžadují OEM desky Lenovo pro řízení otáček.
 
 *(Pohled na zapojenou desku ve skříni)*
-![Hotová montáž](hotovo.jpg)
+![Hotová montáž](hotovo.png)
 
 ---
 
