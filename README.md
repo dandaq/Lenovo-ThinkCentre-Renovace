@@ -31,7 +31,7 @@ Po identifikaci všech dílů se sestava skládá z následujících komponent:
 Níže přikládám detailní snímky připraveného hardwaru před samotnou montáží:
 
 *(Exteriér, nástroje, hdd a zdroj)*
-![PC Skříň](case.jpg)
+![PC Skříň](case.jpeg)
 ![Příprava nástrojů a HDD](nastroje.jpg)
 ![Napájecí zdroj](zdroj.jpg)
 
