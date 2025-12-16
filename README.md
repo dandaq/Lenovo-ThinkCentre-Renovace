@@ -30,7 +30,7 @@ Po identifikaci všech dílů se sestava skládá z následujících komponent:
 ### Fotodokumentace komponent
 Níže přikládám detailní snímky připraveného hardwaru a nástrojů před samotnou montáží.
 
-*(Příprava skříně a nástrojů)*
+*(Příprava skříně, hdd a nástrojů)*
 <p>
   <img src="case.jpeg" width="30%" />
   <img src="nastroje.png" width="60%" align="right" />
