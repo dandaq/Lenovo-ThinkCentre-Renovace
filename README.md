@@ -6,12 +6,12 @@
 
 ---
 
-##  1. Cíl projektu
+## 🎯 1. Cíl projektu
 Cílem mého ročníkového projektu je záchrana, vyčištění a kompletní zprovoznění starší kancelářské sestavy **Lenovo ThinkCentre A58**, která byla nalezena v rozebraném stavu s neznámou funkčností. Projekt se zaměřuje na identifikaci komponent, ověření jejich vzájemné kompatibility, správnou montáž a cable management. Výstupem je funkční počítač schopný POST testu.
 
 ---
 
-##  2. Dokumentace stavu a hardware
+## 📸 2. Dokumentace stavu a hardware
 
 ### Specifikace sestavy (Inventory)
 Po identifikaci všech dílů se sestava skládá z následujících komponent:
@@ -37,19 +37,24 @@ Níže přikládám detailní snímky připraveného hardwaru a nástrojů před
 </p>
 <br>
 
-*(Základní deska, zdroj a ostatní komponenty)*
-<p>
-  <img src="deska.png" width="45%" />
-  <img src="zdroj.png" width="45%" align="right" />
-</p>
-<p align="center">
-  <img src="komponenty.png" width="45%" />
-</p>
+*(Základní deska, komponenty a zdroj)*
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <img src="deska.png" width="100%" alt="Základní deska">
+      <br><br>
+      <img src="komponenty.png" width="100%" alt="Ostatní komponenty">
+    </td>
+    <td width="40%" valign="middle">
+      <img src="zdroj.png" width="100%" alt="Napájecí zdroj">
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
 
-##  3. Postup realizace a řešení problémů
+## 🛠️ 3. Postup realizace a řešení problémů
 
 ### Fáze 1: Vstupní diagnostika a čištění
 Sestava byla kompletně rozebrána. Komponenty jsem očistil od prachu stlačeným vzduchem. Z procesoru a chladiče byla odstraněna stará ztvrdlá teplovodivá pasta pomocí isopropylalkoholu, aby bylo možné nanést novou vrstvu pro efektivní odvod tepla.
@@ -80,7 +85,7 @@ Během přípravy k montáži jsem narazil na zásadní problém, který pravdě
 
 ---
 
-##  4. Závěr a funkčnost
+## ✅ 4. Závěr a funkčnost
 Po finální kontrole zapojení byl proveden testovací start.
 * **Výsledek:** Počítač úspěšně nastartoval, ventilátory se roztočily a systém detekoval základní hardware. Problém s nekompatibilní RAM byl úspěšně vyřešen.
 
@@ -90,7 +95,7 @@ Video zachycující průběh montáže, vysvětlení problému s RAM a finální
 
 ---
 
-##  5. Použité zdroje a nástroje
+## 📚 5. Použité zdroje a nástroje
 
 ### Použité nástroje
 (1) GITHUB, INC. *GitHub*. Online. © 2025. Dostupné z: https://github.com/. [cit. 2025-12-16].
@@ -101,5 +106,5 @@ Video zachycující průběh montáže, vysvětlení problému s RAM a finální
 [1] *Intel Core 2 Duo Processor E7500 Specifications*. Online. Intel. Dostupné z: https://ark.intel.com/. [cit. 2025-12-16].
 [2] *Lenovo ThinkCentre A58 Hardware Maintenance Manual*. Online. Lenovo Support. Dostupné z: https://support.lenovo.com/. [cit. 2025-12-16].
 
-##  Poděkování
+## 🙏 Poděkování
 Děkuji vyučujícímu za zadání tohoto praktického projektu. Dále děkuji internetové komunitě za veřejně dostupné manuály k OEM deskám Lenovo, které pomohly při zapojení.
