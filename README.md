@@ -33,7 +33,7 @@ Níže přikládám detailní snímky připraveného hardwaru a nástrojů před
 *(Příprava skříně, hdd a nástrojů)*
 <p>
   <img src="case.jpeg" width="30%" />
-  <img src="nastroje.png" width="50%" align="right" />
+  <img src="nastroje.png" width="55%" align="right" />
 </p>
 <br>
 
