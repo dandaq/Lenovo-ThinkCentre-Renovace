@@ -1,11 +1,8 @@
-# Lenovo-ThinkCentre-Renovace
-Dokumentace ročníkového projektu: Renovace a kompletace PC sestavy Lenovo ThinkCentre.
 # Ročníkový projekt: Renovace a kompletace PC sestavy
-**Autor:** [DOPLŇ SVÉ JMÉNO]
-**Třída:** [DOPLŇ SVOU TŘÍDU]
+**Autor:** Daniel Vlasák
+**Třída:** S3E
 **Školní rok:** 2024/2025
-**Předmět:** Hardware / Praxe
-**Termín odevzdání:** Finální verze (do 15. 1.)
+**Předmět:** Mikropočítačové Systémy / Praktická cvičení
 
 ---
 
@@ -40,10 +37,10 @@ Po identifikaci všech dílů se sestava skládá z následujících komponent:
 ### Fáze 1: Vstupní diagnostika a čištění
 Sestava byla kompletně rozebrána. Komponenty jsem očistil od prachu stlačeným vzduchem. Z procesoru a chladiče byla odstraněna stará ztvrdlá teplovodivá pasta pomocí isopropylalkoholu, aby bylo možné nanést novou vrstvu pro efektivní odvod tepla.
 
-### Fáze 2: Řešení problému s kompatibilitou RAM (Klíčový moment)
+### Fáze 2: Řešení problému s kompatibilitou RAM
 Během přípravy k montáži jsem narazil na zásadní problém, který pravděpodobně způsoboval nefunkčnost PC u předchozího uživatele.
 * **Popis problému:** K základní desce byly přiloženy dva paměťové moduly, které vypadaly vizuálně téměř shodně.
-* **Analýza:** Při detailní kontrole štítků a porovnání "klíčů" (výřezů) jsem zjistil nesrovnalost:
+* **Analýza:** Při detailní kontrole štítků jsem zjistil nesrovnalost:
     * Modul A: **Lenovo 2GB (DDR3 / PC3-8500U)** – Správný typ.
     * Modul B: **OCZ 1GB (DDR2 / PC2-5400)** – Nekompatibilní typ.
 * **Řešení:** Základní deska L-IG41M podporuje pouze paměti DDR3. Osazení DDR2 modulu je fyzicky nemožné bez poškození slotu (jiná poloha výřezu) a elektricky nekompatibilní. Modul DDR2 jsem proto z montáže vyřadil a systém osadil pouze 2GB DDR3 modulem do slotu DIMM_1.
@@ -77,6 +74,7 @@ Video zachycující průběh montáže, vysvětlení problému s RAM a finální
 ### Použité nástroje
 (1) GITHUB, INC. GitHub. Online. © 2024. Dostupné z: https://github.com/. [cit. 2024-12-16].
 (2) OPENAI. ChatGPT (model GPT-4). Online. 2024. Využito pro konzultaci kompatibility paměťových modulů.
+(3) CITACE.COM, S.R.O. *Citace.com*. Online. © 2024. Dostupné z: https://www.citace.com/. [cit. 2024-12-16].
 
 ### Literatura a zdroje informací
 [1] Intel Core 2 Duo Processor E7500 Specifications. Online. Intel. Dostupné z: https://ark.intel.com/. [cit. 2024-12-16].
