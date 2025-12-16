@@ -79,3 +79,6 @@ Video zachycující průběh montáže, vysvětlení problému s RAM a finální
 ### Literatura a zdroje informací
 [1] *Intel Core 2 Duo Processor E7500 Specifications*. Online. Intel. Dostupné z: https://ark.intel.com/. [cit. 2025-12-16].
 [2] *Lenovo ThinkCentre A58 Hardware Maintenance Manual*. Online. Lenovo Support. Dostupné z: https://support.lenovo.com/. [cit. 2025-12-16].
+
+## 🙏 Poděkování
+Děkuji vyučujícímu za zadání tohoto praktického projektu. Dále děkuji internetové komunitě za veřejně dostupné manuály k OEM deskám Lenovo, které pomohly při zapojení.
