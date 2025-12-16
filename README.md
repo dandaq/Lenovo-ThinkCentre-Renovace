@@ -33,17 +33,17 @@ Níže přikládám detailní snímky připraveného hardwaru a nástrojů před
 *(Příprava skříně a nástrojů)*
 <p>
   <img src="case.jpeg" width="45%" />
-  <img src="nastroje.jpg" width="45%" align="right" />
+  <img src="nastroje.png" width="45%" align="right" />
 </p>
 <br>
 
 *(Základní deska, zdroj a ostatní komponenty)*
 <p>
-  <img src="deska.jpg" width="45%" />
-  <img src="zdroj.jpg" width="45%" align="right" />
+  <img src="deska.png" width="45%" />
+  <img src="zdroj.png" width="45%" align="right" />
 </p>
 <p align="center">
-  <img src="komponenty.jpg" width="45%" />
+  <img src="komponenty.png" width="45%" />
 </p>
 <br>
 
@@ -64,7 +64,7 @@ Během přípravy k montáži jsem narazil na zásadní problém, který pravdě
 
 *(Porovnání modulů)*
 <p align="center">
-  <img src="ram_problem.jpg" width="60%" />
+  <img src="ram_problem.png" width="60%" />
 </p>
 
 ### Fáze 3: Kompletace a Cable Management
@@ -75,7 +75,7 @@ Během přípravy k montáži jsem narazil na zásadní problém, který pravdě
 
 *(Pohled na zapojenou desku ve skříni)*
 <p align="center">
-  <img src="hotovo.jpg" width="60%" />
+  <img src="hotovo.png" width="60%" />
 </p>
 
 ---
