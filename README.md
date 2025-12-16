@@ -27,8 +27,16 @@ Po identifikaci všech dílů se sestava skládá z následujících komponent:
 | **Zdroj (PSU)** | AcBel PC6001 (Lenovo OEM) | 280 W Max výkon |
 | **Skříň** | Lenovo ThinkCentre A58 Tower | Pevné ocelové šasi, ATX |
 
-*(Fotodokumentace komponent)*
-![Přehled komponent](komponenty.jpg)
+### Fotodokumentace komponent
+Níže přikládám detailní snímky připraveného hardwaru před samotnou montáží:
+
+*(Exteriér a zdroj)*
+![PC Skříň](case.jpg)
+![Napájecí zdroj](zdroj.jpg)
+
+*(Základní deska a ostatní komponenty)*
+![Základní deska s CPU](deska.jpg)
+![Přehled dílů a RAM](komponenty.jpg)
 
 ---
 
