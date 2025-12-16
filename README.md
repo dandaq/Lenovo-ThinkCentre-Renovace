@@ -39,11 +39,11 @@ Níže přikládám detailní snímky připraveného hardwaru a nástrojů před
 
 *(Základní deska, zdroj a ostatní komponenty)*
 <p>
-  <img src="deska.png" width="45%" />
+  <img src="deska.png" width="45%" align="left" />
   <img src="zdroj.png" width="45%" align="right" />
 </p>
 <p align="center">
-  <img src="komponenty.png" width="45%" />
+  <img src="komponenty.png" width="45%" align="left" />
 </p>
 <br>
 
