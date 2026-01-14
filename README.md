@@ -91,7 +91,7 @@ Po finální kontrole zapojení byl proveden testovací start.
 
 ###  Videodokumentace
 Video zachycující průběh montáže, vysvětlení problému s RAM a finální start systému naleznete zde:
-> **video**
+> **https://youtu.be/fi-O373DSx0**
 
 ---
 
